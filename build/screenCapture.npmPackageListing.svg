@@ -1,0 +1,31 @@
+<svg height="446" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="446" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-18 08:32:30 +0000   276141 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 08:32:30 +0000    21433 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 08:32:30 +0000     1088 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 08:32:30 +0000      287 bytes  dist/README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 08:32:30 +0000    72800 bytes  dist/vue-validator.common.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 08:32:30 +0000    77379 bytes  dist/vue-validator.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 08:32:30 +0000    34369 bytes  dist/vue-validator.min.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 08:32:30 +0000     5907 bytes  package.json</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 08:32:30 +0000      931 bytes  src/asset.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 08:32:30 +0000      643 bytes  src/components/error.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 08:32:30 +0000     1842 bytes  src/components/errors.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-18 08:32:30 +0000     1353 bytes  src/components/validation.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-18 08:32:30 +0000      293 bytes  src/const.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-18 08:32:30 +0000     2199 bytes  src/directives/validate-class.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-18 08:32:30 +0000     8371 bytes  src/directives/validate.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-18 08:32:30 +0000     2451 bytes  src/directives/validator.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-18 08:32:30 +0000      719 bytes  src/index.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-18 08:32:30 +0000      429 bytes  src/override.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-18 08:32:30 +0000     2703 bytes  src/util.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-18 08:32:30 +0000     2264 bytes  src/validation.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-18 08:32:30 +0000    11237 bytes  src/validations/base.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-18 08:32:30 +0000     4150 bytes  src/validations/checkbox.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-18 08:32:30 +0000     3417 bytes  src/validations/radio.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-18 08:32:30 +0000     2360 bytes  src/validations/select.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-18 08:32:30 +0000    14696 bytes  src/validator.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-18 08:32:30 +0000     2820 bytes  src/validators.js</tspan>
+</text>
+</svg>
