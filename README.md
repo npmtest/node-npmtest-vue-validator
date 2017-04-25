@@ -1,6 +1,6 @@
 # npmtest-vue-validator
 
-#### test coverage for  [vue-validator (v2.1.7)](https://github.com/vuejs/vue-validator)  [![npm package](https://img.shields.io/npm/v/npmtest-vue-validator.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-vue-validator) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-vue-validator.svg)](https://travis-ci.org/npmtest/node-npmtest-vue-validator)
+#### basic test coverage for  [vue-validator (v2.1.7)](https://github.com/vuejs/vue-validator)  [![npm package](https://img.shields.io/npm/v/npmtest-vue-validator.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-vue-validator) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-vue-validator.svg)](https://travis-ci.org/npmtest/node-npmtest-vue-validator)
 
 #### Validator component for Vue.js
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-vue-validator/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-vue-validator/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-vue-validator/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-vue-validator/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-vue-validator/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-vue-validator/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-vue-validator/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-vue-validator/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-vue-validator/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-vue-validator/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-vue-validator/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-vue-validator/build/coverage.html/index.html)
 
@@ -146,7 +146,8 @@
         "test": "npm run ci",
         "unit": "karma start config/karma.conf.js"
     },
-    "version": "2.1.7"
+    "version": "2.1.7",
+    "bin": {}
 }
 ```
 
